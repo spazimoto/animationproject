@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/animsound.unity
+    guid: 71b390d457f772348807e4cf1f8dc7c2
   m_configObjects: {}
